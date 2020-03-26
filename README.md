@@ -94,7 +94,7 @@ Using a Url.Action helper method, I called this function in the index, details, 
 
 
 
-Admin Settings Dashboard
+### Admin Settings Dashboard
 This story involved modifications to the admin settings dashboard, which initially looked like this:
 
 
