@@ -4,10 +4,10 @@
 During a two-week sprint at the tech academy, I worked on a team with other software development students to create an ASP.NET MVC web application using Entity Framework for data access. The web application was designed for a theater company to manage its website without requiring any technical knowledge. The application has multiple areas to manage admin needs, subscriber needs, and general public needs. The site includes information on the current season, past productions, and the current cast members. Below are descriptions of the stories I worked on along with code snippets.
 
 ## Stories
-[Create a New Photo Class](#create-a-new-photo-class)
-[Photo Class Display Process](#photo-class-display-process)
-[Admin Settings Dashboard](#admin-settings-dashboard)
-[Sponsors Partial View Cleanup](#sponsors-partial-view-cleanup)
+* [Create a New Photo Class](#create-a-new-photo-class)
+* [Photo Class Display Process](#photo-class-display-process)
+* [Admin Settings Dashboard](#admin-settings-dashboard)
+* [Sponsors Partial View Cleanup](#sponsors-partial-view-cleanup)
 
 ### Create a New Photo Class
 I was tasked with creating a specific Photo class that has all the methods and helpers to improve consistency, reduce complexity, and reduce calls to the database. We wanted to implement this new class incrementally and maintain existing classes and methods while the new class was being created. 
