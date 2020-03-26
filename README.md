@@ -97,6 +97,7 @@ Using a Url.Action helper method, I called this function in the index, details, 
 ### Admin Settings Dashboard
 This story involved modifications to the admin settings dashboard, which initially looked like this:
 
+![admin settings](https://github.com/sloanehawk/CSharpLiveProject/blob/master/admin1.PNG)
 
 For each season, the number shown is the ID number of a production. For the ‘onstage’ field, the number represents the ID number of the current production. In order to make this more user friendly, we wanted a dropdown of existing productions from the database, sorted by season number in descending order. 
 
